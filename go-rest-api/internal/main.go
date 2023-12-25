@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/Aryan1302/Go-Tutorials/go-rest-api/pkg/swagger/server/restapi"
-	"github.com/go-openapi/loads"
-	"github.com/go-openapi/runtime/middleware"
+	"github.com/go-openapi/runtime"
+
 
 	"github.com/Aryan1302/Go-Tutorials/go-rest-api/pkg/swagger/server/restapi/operations"
 )
